@@ -1,0 +1,1 @@
+# plugins-ninja-forms-addon-manager
